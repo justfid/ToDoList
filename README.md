@@ -1,5 +1,7 @@
 # To-Do List Application
 
+**MAKE SURE TO HAVE BOTH TODO.TXT AND TODOLIST.PY DOWNLOADED & IN THE SAME FOLDER**
+
 A python application that keeps track of tasks, which are saved locally on the computer. It has a simplistic and minimalistic UI which is locked to 600 x 400, to not interfere with the rest of the user's running programs.
 
 ![Alt text](image.png)
