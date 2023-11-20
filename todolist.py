@@ -24,7 +24,7 @@ class Window():
         subtitle.place(x=xpad, y=100)
 
         #box to type tasks in
-        self.entry = tk.Entry(self.root, width = 20, font=(14))
+        self.entry = tk.Entry(self.root, width = 20, font=("Calibri", 14))
         self.entry.place(x=xpad, y=140)
 
         #button to add a task - calls custom function
